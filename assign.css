@@ -1,0 +1,112 @@
+.entirecontainer{
+    margin:0px;
+    box-sizing: border-box;
+}
+.container1{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width:10vw;
+    height: 10vh;
+}
+a{
+    font-size: 20px;
+}
+.wup{
+    width:3vw;
+    height:4vh;
+}
+.fb{
+    width:3vw;
+    height:4vh;
+}
+.container2{
+    background-image: url(https://res.cloudinary.com/dmpfxz6te/image/upload/v1713795073/yltx2jgndrglygfpawhm.jpg);
+    width:100vw;
+    height:100vh;
+    background-size: cover;
+}
+.text{
+    padding-top: 80vh;
+    padding-left: 10vw;
+}
+.texti{
+    background-color: rgb(61, 60, 60);
+    padding:10px;
+    width:10vw;
+    border-radius: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.container3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(202, 195, 195);
+    /* margin-right:10vw;
+    margin-left: 10vw; */
+    padding-left: 10vw;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+.three1{
+    width:28vw;
+    font-size: 18px;
+}
+.spl{
+    width:25vw;
+    height:30vh;
+    /* margin-left: 4vw;
+    margin-right: 4vw; */
+}
+.incon4{
+    display: flex;
+    flex-direction: row;
+    align-items: space-around;
+  
+}
+.inco41{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+.inco42{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+.inco43{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+.head{
+    margin-left: 4vw;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding:15px;
+    max-width: 12vw;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.an{
+    font-family: bold;
+    text-decoration: none;
+    color:black;
+}
